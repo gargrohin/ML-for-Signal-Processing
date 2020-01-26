@@ -1,0 +1,17 @@
+# python .pkl files
+
+*.pkl
+
+# mnist
+
+*.csv
+
+# archives
+
+*.zip
+*.tar
+*.gz
+
+# other data
+
+own*
